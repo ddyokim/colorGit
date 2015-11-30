@@ -1,0 +1,29 @@
+{
+    "manifest_version" : 2,
+    "name": "colorGit",
+    "version": "1.0",
+    "description": "Make your GitHub more colorful",
+    "browser_action": {
+        "default_icon": "icon.png"
+    },
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png" 
+    },
+    "permissions": [
+        "tabs",
+        "*://github.com/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://github.com/*"
+            ],
+            "js": [
+                "jquery.min.js",
+                "changeColor.js"
+            ]
+        }
+    ]
+}
