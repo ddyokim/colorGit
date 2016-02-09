@@ -8,7 +8,7 @@ var updateColors = function () {
   }
 }
 
-$('#js-pjax-container').bind("DOMSubtreeModified DOMNodeRemoved DOMElementNameChanged", function() {
+$('#js-pjax-container').bind("DOMSubtreeModified", function() {
   if ($('.contributions-tab').length == 1) {
       updateColors();
   }
