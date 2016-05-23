@@ -4,7 +4,8 @@
     "version": "1.0",
     "description": "Make your GitHub more colorful",
     "browser_action": {
-        "default_icon": "icon.png"
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
     },
     "icons": {
         "16": "icon16.png",
