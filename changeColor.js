@@ -10,7 +10,7 @@ var updateColors = function(newIdx) {
   var newColors = colors[newIdx];
   for (var i = 0; i < originColors.length; i += 1) {
       $('.day[fill='+originColors[i] + ']').attr('fill', newColors[i]);
-      $('ul.legend li[style="background-color: '+originColors[i]+'"]').css('background-color', newColors[i]);
+      $('.contrib-legend .legend li').eq(4-i).css('background-color', newColors[i]);
   }
   originIdx = newIdx;
   localStorage.colorGit = newIdx;
