@@ -1,9 +1,9 @@
 var originIdx = 0;
 var colors = [
     [ '#1e6823', '#44a340', '#8cc665', '#d6e685', '#eee' ],
-    [ '#ff5675', '#ff6a89', '#ff88a7', '#ff9cbb', '#ffb0cf' ],
-    [ '#0064ff', '#28a0ff', '#5ad2ff', '#b4fbff', '#d6fbff' ],
-    [ '#9932cc', '#ad46e0', '#c15af4', '#e27dfb', '#ff9dff' ],
+    [ '#ff5675', '#ff6a89', '#ff88a7', '#ffb0cf', '#eee' ],
+    [ '#0048cc', '#148cff', '#3cb4ff', '#5adeff', '#eee' ],
+    [ '#9932cc', '#ad46e0', '#c15af4', '#ff9dff', '#eee' ],
 ];
 
 var updateColors = function(newIdx) {
