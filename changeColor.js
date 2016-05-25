@@ -34,4 +34,3 @@ chrome.runtime.onMessage.addListener( function(request, sender, sendResponse) {
   var value = request.value * 1;
   updateColors(value);
 });
-
