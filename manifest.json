@@ -1,7 +1,7 @@
 {
     "manifest_version" : 2,
     "name": "colorGit",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Make your GitHub more colorful",
     "browser_action": {
         "default_icon": "icon.png",
