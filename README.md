@@ -1,10 +1,18 @@
 # colorGit
 _Make your GitHub more colorful!_
 
-This is a Chrome extension.
+The [Chrome](https://www.google.com/chrome/) extension which makes your gihtub tiles more colorful! 💖
 
-If you download this program, your github tiles will be more colorful.
+![colorGit on Chrome web store](screenshot.jpg)
 
-Download link : <https://chrome.google.com/webstore/detail/colorgit/mgmdjgnaodbpkoanmdbblaflilnhalig?hl=ko>
+## Installation
+You can install it via [Chrome web store](https://chrome.google.com/webstore/detail/colorgit/mgmdjgnaodbpkoanmdbblaflilnhalig?hl=ko).
 
-Thank you!💖
+## Credits
+* [@Parkayun](https://github.com/Parkayun)
+* [@lll4592](https://github.com/lll4592)
+
+## License
+colorGit is under the [GPL](https://github.com/dhdh6190/colorGit/blob/master/LICENSE).
+
+Copyright (c) 2016 Dohyun Kim
