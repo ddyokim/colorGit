@@ -9,10 +9,11 @@ The [Chrome](https://www.google.com/chrome/) extension which makes your gihtub t
 You can install it via [Chrome web store](https://chrome.google.com/webstore/detail/colorgit/mgmdjgnaodbpkoanmdbblaflilnhalig?hl=ko).
 
 ## Credits
+* [@dhdh6190](https://github.com/dhdh6190) (Author)
 * [@Parkayun](https://github.com/Parkayun)
 * [@lll4592](https://github.com/lll4592)
 
 ## License
-colorGit is under the [GPL](https://github.com/dhdh6190/colorGit/blob/master/LICENSE).
+colorGit is under the [GPL](LICENSE).
 
 Copyright (c) 2016 Dohyun Kim
