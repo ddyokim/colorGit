@@ -14,6 +14,6 @@ You can install it via [Chrome web store](https://chrome.google.com/webstore/det
 * [@lll4592](https://github.com/lll4592)
 
 ## License
-colorGit is under the [GPL](LICENSE).
+colorGit is under the [GPLv2](LICENSE).
 
 Copyright (c) 2016 Dohyun Kim
