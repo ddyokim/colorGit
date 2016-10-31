@@ -10,6 +10,11 @@ var colors = [
 var updateColors = function(newIdx) {
   var originColors = colors[originIdx];
   var newColors = colors[newIdx];
+
+  for(var z = 0; z < 5; z += 1) {
+    $('.contrib-legend .legend li').eq(4-z).css('background-color', newColors[z]);
+  }
+
   var originGraph = $('div.js-calendar-graph > svg > g g');
   for (var i = 0; i < originGraph.length; i += 1) {
       var rectList = $('div.js-calendar-graph > svg > g > g:nth-child('+(i+1)+') rect');
