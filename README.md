@@ -3,7 +3,7 @@ _Make your GitHub more colorful!_
 
 The [Chrome](https://www.google.com/chrome/) extension which makes your gihtub tiles more colorful! 💖
 
-![colorGit on Chrome web store](screenshot.jpg)
+[![colorGit on Chrome web store](screenshot.jpg)](https://chrome.google.com/webstore/detail/colorgit/mgmdjgnaodbpkoanmdbblaflilnhalig?hl=ko)
 
 ## Installation
 You can install it via [Chrome web store](https://chrome.google.com/webstore/detail/colorgit/mgmdjgnaodbpkoanmdbblaflilnhalig?hl=ko).
@@ -32,7 +32,7 @@ _당신의 GitHub를 더 알록달록하게 만들어보세요!_
 
 [Chrome](https://www.google.com/chrome/) 확장 프로그램이 당신의 타일을 예쁘게 만들어 줍니다! 💖
 
-![colorGit on Chrome web store](screenshot.jpg)
+[![colorGit on Chrome web store](screenshot.jpg)](https://chrome.google.com/webstore/detail/colorgit/mgmdjgnaodbpkoanmdbblaflilnhalig?hl=ko)
 
 ## 설치
 [Chrome web store](https://chrome.google.com/webstore/detail/colorgit/mgmdjgnaodbpkoanmdbblaflilnhalig?hl=ko)에 가셔서 다운로드 받으실 수 있습니다.
